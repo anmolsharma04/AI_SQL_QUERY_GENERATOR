@@ -1,6 +1,7 @@
-Pandas
-Groq
-Langchain
-Os
-Prompt Template
-Streamlit
+streamlit
+langchain
+langchain-groq
+groq
+python-dotenv
+pandas
+requests
