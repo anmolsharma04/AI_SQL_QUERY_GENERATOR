@@ -1,0 +1,6 @@
+Pandas
+Groq
+Langchain
+Os
+Prompt Template
+Streamlit
